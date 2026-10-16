@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "description": "Modern open-source team chat — Angular + Express/Node revival of Kandan",
   "private": true,
-  "scripts": {
-    "prepare": "husky"
-  },
   "workspaces": [
     "server",
     "client"
